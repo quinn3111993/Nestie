@@ -1,0 +1,61 @@
+# Core AI and ML libraries
+langchain==0.3.20
+langchain-google-genai==2.0.10
+langchain-community==0.3.19
+google-generativeai==0.8.5
+
+# Vector database and embeddings
+chromadb==1.0.12
+sentence-transformers==2.2.2
+
+# Document processing
+pypdf==4.0.1
+PyPDF2==3.0.1
+
+# Text processing
+langchain-text-splitters==0.3.6
+
+# Slack integration
+slack-bolt==1.23.0
+slack-sdk==3.35.0
+
+# Web scraping and HTTP requests
+requests==2.32.2
+urllib3==2.2.2
+
+# Data processing and utilities
+pandas==2.2.3
+numpy==1.26.4
+python-dotenv==1.0.1
+
+# Logging and monitoring
+python-json-logger==2.0.7
+
+# Development and testing
+pytest==7.4.4
+pytest-asyncio==0.21.1
+
+# File handling
+pathlib2==2.3.7
+
+# Date and time utilities
+python-dateutil==2.8.2
+
+# Regular expressions (built-in, but listing for completeness)
+# re - built-in module
+
+# JSON handling (built-in)
+# json - built-in module
+
+# Operating system interface (built-in)
+# os - built-in module
+
+# Logging (built-in)
+# logging - built-in module
+
+# Type hints
+typing-extensions==4.9.0
+
+# Additional utilities
+tqdm==4.66.1
+colorama==0.4.6
