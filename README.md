@@ -29,7 +29,7 @@ A RAG chatbot embedded in Slack, enabling Q&A on internal documents, Slack chann
 #### 1. Clone the repository
 ```
 git clone https://github.com/quinn3111993/Nestie.git
-cd nestie
+cd Nestie
 ```
 
 #### 2. Create virtual environment
