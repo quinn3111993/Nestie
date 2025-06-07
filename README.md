@@ -113,7 +113,7 @@ python main.py
 <br>
 
 <div align="center">
-<img width="600" alt="RAG" src="https://github.com/user-attachments/assets/a759b15b-f94d-4ccf-bfb1-e5943ac84909" />
+<img width="600" alt="RAG" src="https://github.com/user-attachments/assets/3eedd419-26e6-4387-aae0-35ad399d5b6f" />
   <br>
   <em>The bot will use RAG to provide contextually relevant responses</em>
 </div>
@@ -121,7 +121,7 @@ python main.py
 <br>
 
 <div align="center">
-<img width="600" alt="channel summary" src="https://github.com/user-attachments/assets/94fe5657-c9f7-47ac-9e7c-b13a014f1f28" />
+<img width="600" alt="channel summary" src="https://github.com/user-attachments/assets/9ad4f275-69da-44d6-af0c-017c07964978" />
   <br>
   <em>And access Slack channels to provide analysis or summarization requests</em>
 </div>
