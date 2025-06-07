@@ -28,7 +28,7 @@ A RAG chatbot embedded in Slack, enabling Q&A on internal documents, Slack chann
 ## Installation
 #### 1. Clone the repository
 ```
-git clone https://github.com/quinn3111993/nestie.git
+git clone https://github.com/quinn3111993/Nestie.git
 cd nestie
 ```
 
