@@ -105,7 +105,7 @@ python main.py
 #### Interact with the bot
 
 <div align="center">
-<img width="600" alt="Screenshot 2025-06-06 at 22 48 54" src="https://github.com/user-attachments/assets/ae0d0943-c42c-4332-9c39-5e3d073d74f0" />
+<img width="600" alt="Screenshot 2025-06-06 at 22 48 54" src="https://github.com/user-attachments/assets/851a0d0d-218a-47cb-9854-ec0210b219bb" />
   <br>
   <em>Direct message the bot in Slack</em>
 </div>
